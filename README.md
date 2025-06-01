@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="logo2.png" alt="Banking & Fintech Prompt Engineering Library" width="400">
+</div>
+
 # Banking & Fintech Prompt Engineering Library 🦀🏦
 
 A simplified, educational Rust library for learning prompt engineering concepts and Rust programming patterns, specialized for banking and financial services applications.
